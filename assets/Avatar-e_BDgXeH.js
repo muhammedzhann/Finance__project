@@ -1,0 +1,1 @@
+import{r as n,j as r,S as o}from"./index-B1BljWgF.js";function x({src:a,alt:s,name:t}){const[e,c]=n.useState(null);return!a||e?r.jsxs("div",{className:"useravatar useravatar-circ",children:[r.jsx(o,{path:"circle"}),r.jsx("span",{className:"useravatar-circ-text",children:t[0]})]}):r.jsx("img",{src:a,alt:s,className:"useravatar useravatar-img",onError:i=>c(i)})}export{x as U};

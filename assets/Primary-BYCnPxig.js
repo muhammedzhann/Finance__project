@@ -1,0 +1,1 @@
+import{j as r}from"./index-B1BljWgF.js";function i({label:a,onClick:s=()=>{},type:t="button",isDisabled:n=!1}){return r.jsx("button",{className:"primarybtn",onClick:s,type:t,disabled:n,children:r.jsx("span",{className:"primarybtn-label",children:a})})}export{i as P};
